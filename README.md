@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to kfrese's homepage!
+
+Pay no attention to the man behind the keyboard.  He has no idea what he is doing.
 
 You can use the [editor on GitHub](https://github.com/kfrese/kfrese.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
